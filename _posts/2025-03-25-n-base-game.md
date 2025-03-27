@@ -84,6 +84,6 @@ nums = string.digits + string.ascii_uppercase
 - Avoid unnecessary calculations.
 - Only one loop is needed.
 
-## Thought
+## Thoughts
 
 - Another way to solve it, but with one loop, less memory, no waste.

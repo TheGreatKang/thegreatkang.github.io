@@ -61,6 +61,6 @@ def recursive(arr: list[list[int]]) -> list[int]:
     )
 ```
 
-## Thought
+## Thoughts
 
 - Python's list comprehension proved to be incredibly powerful for handling 2D array slicing, making the code both elegant and readable. I should definitely get more comfortable with this pythonic way of writing code as it can significantly reduce the complexity of array manipulations.
