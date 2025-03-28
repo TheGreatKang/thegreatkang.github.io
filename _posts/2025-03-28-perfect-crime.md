@@ -14,7 +14,7 @@ tags: [Programmers, level-2]
 > If Thief A leaves `n` or more pieces of evidence, they will be arrested.
 > If Thief B leaves `m` or more pieces of evidence, they will be arrested.
 
-**Goal:** Calculate the minimum number of times Thief A needs to steal
+**Goal:** Calculate the minimum number of times Thief A needs to steal.
 
 Source: [Programmers - Perfect Crime](https://school.programmers.co.kr/learn/courses/30/lessons/389480)
 

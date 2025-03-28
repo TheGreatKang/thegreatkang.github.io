@@ -77,7 +77,7 @@ def solution(n, t, m, p):
 
 nums = string.digits + string.ascii_uppercase
 
-... omit ...
+... existing code ...
 
 ```
 - No extra memory needed.
