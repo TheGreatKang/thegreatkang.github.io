@@ -26,8 +26,6 @@ Source: [Programmers - Disk Controller](https://school.programmers.co.kr/learn/c
   - If no jobs are available, simply advance the current time.
 - This strategy ensures that shorter jobs are processed first, reducing the overall average waiting time.
 
----
-
 ## Code
 
 ```python
