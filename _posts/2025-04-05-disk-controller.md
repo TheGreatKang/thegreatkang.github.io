@@ -9,8 +9,7 @@ tags: [Programmers, level-3]
 
 > A hard disk can handle only one task at a time. Each task is given as a pair `[request_time, duration]`. The goal is to schedule the tasks in a way that minimizes the **average turnaround time**, where turnaround time is the time from request to completion for each task.
 
-**Goal:**  
-Minimize the average time each task spends from request to completion.
+**Goal:** Minimize the average time each task spends from request to completion.
 
 Source: [Programmers - Disk Controller](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
 
