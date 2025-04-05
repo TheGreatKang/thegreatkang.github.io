@@ -13,8 +13,6 @@ tags: [Programmers, level-3]
 
 Source: [Programmers - Disk Controller](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
 
----
-
 ## Approach
 
 - The key idea is to implement **Shortest Job First (SJF)** scheduling.
