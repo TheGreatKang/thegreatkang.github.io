@@ -7,12 +7,12 @@ tags: [Programmers, level-2]
 
 ## Problem Description
 
-> Thief A and Thief B are planning to steal together.
-> Each time they steal, both thieves leave evidence.
-> When Thief A steals, they leave `info[i][0]` pieces of evidence.
-> When Thief B steals, they leave `info[i][1]` pieces of evidence.
-> If Thief A leaves `n` or more pieces of evidence, they will be arrested.
-> If Thief B leaves `m` or more pieces of evidence, they will be arrested.
+> Thief A and Thief B are planning to steal together.  
+> Each time they steal, both thieves leave evidence.  
+> When Thief A steals, they leave `info[i][0]` pieces of evidence.  
+> When Thief B steals, they leave `info[i][1]` pieces of evidence.  
+> If Thief A leaves `n` or more pieces of evidence, they will be arrested.  
+> If Thief B leaves `m` or more pieces of evidence, they will be arrested.  
 
 **Goal:** Calculate the minimum number of times Thief A needs to steal.
 

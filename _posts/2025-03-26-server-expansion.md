@@ -7,8 +7,8 @@ tags: [Programmers, level-2]
 
 ## Problem Description
 
-> One server can handle up to `m` players.
-> Each server runs for `k` hours and then shuts down.
+> One server can handle up to `m` players.  
+> Each server runs for `k` hours and then shuts down.  
 > `players[i]` represents the number of players at time `i`.
 
 **Goal:** Calculate how many times do we need to add servers to handle traffic.

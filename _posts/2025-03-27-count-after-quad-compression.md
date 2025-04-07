@@ -7,7 +7,7 @@ tags: [Programmers, level-2]
 
 ## Problem Description
 
-> Given a 2D integer list.
+> Given a 2D integer list.  
 > Compress the given array using [quad tree](https://en.wikipedia.org/wiki/Quadtree) compression.
 
 **Goal:** Count the number of zeros and ones.

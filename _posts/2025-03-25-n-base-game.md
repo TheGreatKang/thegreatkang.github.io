@@ -7,10 +7,10 @@ tags: [Programmers, level-2]
 
 ## Problem Description
 
-> Players take turns saying digits of numbers.
-> Numbers are converted to **base N** before speaking.
-> All numbers start from 0 and increase by 1.
-> Digits are read **one by one**, left to right.
+> Players take turns saying digits of numbers.  
+> Numbers are converted to **base N** before speaking.  
+> All numbers start from 0 and increase by 1.  
+> Digits are read **one by one**, left to right.  
 > Players speak in a **fixed order**, looping back.
 
 **Goal:** Return a continous string of `t` numbers spoken by `p` in order, using uppercase A-F for 10-15
