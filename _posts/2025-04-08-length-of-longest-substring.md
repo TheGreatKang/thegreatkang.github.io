@@ -2,7 +2,7 @@
 title: "[LeetCode] Longest Substring Without Repeating Characters"
 date: 2025-04-08
 categories: [Algorithm]
-tags: [LeetCode, med]
+tags: [LeetCode, medium]
 ---
 
 ## Problem Description
